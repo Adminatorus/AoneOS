@@ -1,11 +1,10 @@
 # AoneOS
-Systéme d'éxploitation pour le projet Aone
+Système d'exploitation pour le projet Aone
 
-Sytéme de base: Archlinux
+Système de base : Archlinux
 
-Objectif: Gestion cryptomonnaie/registre personnel
+Objectif : gestion cryptomonnaie/registre personnelle
 
-Matariel: Rasberry Pi 4
+Matériels : Rasberry Pi 4
 
-Acssesoires: ECRAN LCD/CLAVIER/CAMERA
-
+Accessoires : ÉCRAN LCD/CLAVIER/CAMERA
